@@ -320,9 +320,9 @@ body, html {
     }
 
     .logo {
-        background-image: url(../styles/images/logo2x.png);
         background-repeat: no-repeat;
         background-size: 100%;
+        background: red;
     }
 
     #map-search {
